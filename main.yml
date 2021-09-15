@@ -102,13 +102,3 @@
       pause:
         seconds: "{{health_time}}"
         prompt: "Please hold on Loading back the Ec2 Instance"
-
-
-
-
-
-
-
-
-
-          
