@@ -264,7 +264,7 @@ alt_txt
 alt_txt
 ](https://i.ibb.co/vsL9GXk/Screenshot-8.png)
 
-> Further needs to update the Github webhook to integrate with the Jenkins. For the same update the Jenkins server IP is provided below in the webhook URL.
+> Further needs to update the Github webhook to integrate with the Jenkins. For the same update the Jenkins server IP as provided below in the webhook URL.
 
 - (http://< jenkins-server-IP >:8080/github-webhook/)
 
