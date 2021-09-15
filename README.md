@@ -108,8 +108,7 @@ alt_txt
   gather_facts: false
   serial: 1
   vars_files:
-    - git.vars
-    - access.vars
+    - app.vars
   tasks:
     - name: "Installing the Git Packages"
       yum:
