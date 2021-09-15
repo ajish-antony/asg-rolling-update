@@ -1,5 +1,5 @@
-# Auto Scaling Group Rolling Update
-## (Continous Deployment via Jenkins and Ansible) 
+# Auto Scaling Rolling Update
+## (Continous Deployment via Jenkins and Ansible)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -36,7 +36,7 @@ Here the reason for ASG rolling update implementation was that the project is ru
 
 ![
 alt_txt
-](https://i.ibb.co/wSZnhvk/asg-rolling-3.jpg)
+](https://i.ibb.co/PwMx7LB/asg-rolling-4.jpg)
 
 
 
@@ -200,6 +200,7 @@ chkconfig httpd on
 ## CI/CD - Jenkins Configuration
 
 - Configuration proceeds with the installation of the plugin "Ansible". For the same navigate to
+
 >  Manage Jenkins --> Manage Plugins
 
 ![
@@ -282,6 +283,7 @@ alt_txt
 ## Conclusion
 
 Here was the project that has managed to deploy in the ASG rolling method with the help of the Ansible-playbook. And the whole process has been automated with the help of Jenkins.
+
 
 
 ### ⚙️ Connect with Me
