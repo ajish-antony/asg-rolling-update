@@ -36,7 +36,7 @@ Here the reason for ASG rolling update implementation was that the project is ru
 
 ![
 alt_txt
-](https://i.ibb.co/hyw4rYg/asg-rolling-5.jpg)
+](https://i.ibb.co/27rS5FP/asg-rolling-7.jpg)
 
 
 
