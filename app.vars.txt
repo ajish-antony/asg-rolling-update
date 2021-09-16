@@ -1,0 +1,7 @@
+---
+region: "Mention-Your-Region"
+tag_name: "Mention-ASG-tag-Name"
+private_key: "Key-file"
+health_time: 25
+gitRepository: "Mention-Your-Git-Repository"
+clonDir: Mention-Required-Clone-Directory
