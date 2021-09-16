@@ -1,4 +1,4 @@
-# ASG Rolling Update
+# ASG Rolling Update Using Dynamic Inventory
 ## (Continous Deployment via Jenkins and Ansible)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
