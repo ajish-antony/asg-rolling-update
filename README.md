@@ -179,7 +179,7 @@ health_time: 25
 gitRepository: "https://github.com/ajish-antony/ansible-website.git"
 clonDir: /var/git/
 ```
-Also here I have provided sample user data for the instances if creating for the first time in the autoscaling.
+Also here I have provided sample user data for the instances if creating for the first time in the autoscaling or can be made use for the AMI creation.
 
 ```sh
 #!/bin/bash
