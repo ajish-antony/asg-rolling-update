@@ -69,7 +69,7 @@ alt_txt
 - name: "Rolling Update For ASG"
   hosts: localhost
   vars_files:
-    - access.vars
+    - app..vars
   tasks:
   
     - name: "Installing pip"
